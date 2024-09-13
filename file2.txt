@@ -14,3 +14,4 @@ Enter in the master file 2
 into master and save the work in stage area
 
 I have make changes in new fix bug file.
+ornage mode is added.

@@ -5,9 +5,7 @@ fsdfsdjf
 ENter in the master brach.
 Enter in the master file 2
 
-<<<<<<< HEAD
 Hii , I am making chenges in master branch.
-=======
 Enter in bug fix
 
 Enter in the bug fix 2 
@@ -16,4 +14,3 @@ Enter in the master file 2
 into master and save the work in stage area
 
 I have make changes in new fix bug file.
->>>>>>> new-bug-fix

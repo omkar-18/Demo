@@ -1,1 +1,2 @@
 Create new file in bug fix branch.
+Added from github server.
